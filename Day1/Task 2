@@ -1,0 +1,21 @@
+
+    // --- Task 2: Data Types & Type Conversion ---
+    let num = 42;                        
+    let str = "123";                     
+    let isStudent = true;               
+    let emptyValue = null;              
+    let notDefined;                     
+    let person = { name: "John" };      
+    let sym = Symbol("id");             
+
+    console.log("Data Types:");
+    console.log(typeof num, typeof str, typeof isStudent, typeof emptyValue, typeof notDefined, typeof person, typeof sym);
+
+    let strToNum = Number(str);         
+    let numToStr = String(num);         
+
+    console.log("Converted string to number:", strToNum); 
+    console.log("Converted number to string:", numToStr); 
+
+    console.log("5" * 2);  
+    console.log("5" + 2);  
