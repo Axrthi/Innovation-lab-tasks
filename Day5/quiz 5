@@ -1,0 +1,12 @@
+1. --> The filter() method returns a new array containing elements that pass the test implemented by the provided function
+
+2. --> The reduce() method applies a function to each element in an array and reduces it to a single value.
+
+3. --> slice() method returns a shallow copy of a portion of an array into a new array object.
+   --> splice() method changes the contents of an array by removing or replacing existing elements.
+
+4. --> spread operator() is used to expand an iterable into more elements.
+
+5. -->To define a method inside an object by assigning a function to a property of the object.
+
+6. -->Destructing is a syntax that allows unpacking values from arrays or properties from objects into distinct variables.
